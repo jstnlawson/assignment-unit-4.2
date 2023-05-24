@@ -1,24 +1,30 @@
 body {
     margin: 1%;
     background-color: #fff;
+    font-family: sans-serif;
+    font-variant: petite-caps;
+    font-size: large;
 }
 
 header {
     text-align: center;
-    background-color: rgb(163 216 198);
-    color: rgb(121, 67, 55);
+    background-color: rgb(186 238 220);
+    color: rgb(85 68 38);
+    border: 3px solid #d4829f;
 }
 
 h2 {
     text-align: center;
-    background-color: rgb(163 216 198);
-    color: rgb(121, 67, 55);
+    background-color: rgb(186 238 220);
+    color: rgb(85 68 38);
+    border: 3px solid #d4829f;
 }
 
 h3 {
     text-align: center;
-    background-color: rgb(163 216 198);
-    color: rgb(121, 67, 55); 
+    background-color: rgb(186 238 220);
+    color: rgb(85 68 38); 
+    border: 3px solid #d4829f;
 }
 
 img {
@@ -27,4 +33,8 @@ img {
     height: auto; 
     margin-left: auto;
     margin-right: auto;
+}
+
+.refresh-link {
+    color: #d4829f;
 }
